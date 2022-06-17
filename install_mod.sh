@@ -31,6 +31,8 @@ cp JumpStart/resource/requirements.txt "$packagename"
 cp JumpStart/resource/NOTES.md "$packagename"
 #.gitignore
 cp JumpStart/resource/.gitignore "$packagename"
+# tox.ini
+cp JumpStart/resource/tox.ini "$packagename"
 #git action from template
 cp JumpStart/resource/lint_and_test.yml "$packagename"/.github/workflows
 # vscode settings
