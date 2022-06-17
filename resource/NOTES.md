@@ -1,0 +1,4 @@
+# Notes for pair programming
+
+***
+✅ 🍅 🔴 🟢 ♻️ 💿

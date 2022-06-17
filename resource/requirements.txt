@@ -1,0 +1,5 @@
+# install with pip
+black
+pytest
+pytest-cov
+coverage
